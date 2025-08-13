@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0b17307-291b-4264-827d-4d75ce44105a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/ui/custom/input/NumberText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/ui/custom/input/NumberText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/ui/custom/screen/MainScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/ui/custom/screen/MainScreen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,15 +17,28 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="package-info" />
+        <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "alfredocurty"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/alfredocurty/sudoku.git",
+    "accountId": "cd82050d-a1cb-47ed-9ad0-5bbf1efb3777"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 0
@@ -40,6 +54,7 @@
     "Application.UIMain.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "onboarding.tips.debug.path": "C:/Users/curty/Desktop/Desafio DIO POO/sudoku/src/Main.java"
